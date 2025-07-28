@@ -1,4 +1,4 @@
 # demo
 my first proper git repo
 <br>
-Author- Ayon Mitra
+Author- Ayon Mitra CSE
